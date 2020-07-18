@@ -47,8 +47,8 @@ h2 {
 
 .container {
     display: flex;
-    border-style: dashed;
-    border-color: slategray;
+    border-style: solid;
+    border-color: pink;
     border-width: 3px;
     background: linear-gradient(pink, purple);
     background-image: url(https://www.transparenttextures.com/patterns/brick-wall.png);
@@ -58,5 +58,9 @@ h2 {
 .mypicture {
     height: 450px;
     width: 450px;
+}
+
+.table {
+    border-top: 2px solid teal;
 }
 
