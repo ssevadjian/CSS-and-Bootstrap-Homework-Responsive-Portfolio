@@ -1,0 +1,58 @@
+.container {
+    display: flex;
+}
+
+body {
+
+}
+
+.mycolor {
+    background-color: #FF69B4;
+    margin: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.headerpadding {
+    padding-left: 15px !important;
+    margin-left: 75px !important;
+}
+
+.flex-row {
+    display: flexbox;
+    justify-content: right;
+}
+
+.navlist {
+    list-style: none;
+}
+
+.mynavlink {
+    color: white;
+    text-decoration: none;
+    background-color: transparent;
+    display: block;
+    padding: .5rem 1rem;
+    text-decoration: none !important;
+    letter-spacing: 1px;
+}
+
+
+.mynavbrand {
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    font-size: 1.7rem;
+    line-height: inherit;
+    white-space: nowrap;
+    color: white !important;
+    text-decoration: none !important;
+    letter-spacing: 1px;
+}
+
+.mypicture {
+    height: 450px;
+    width: 450px;
+}
+
