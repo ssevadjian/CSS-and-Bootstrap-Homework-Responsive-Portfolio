@@ -1,26 +1,17 @@
-.container {
-    display: flex;
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
 }
 
 body {
-
+    font-family: 'Bebas Neue', cursive;;
 }
 
 .mycolor {
     background-color: #FF69B4;
-    margin: 0px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-}
-
-.headerpadding {
-    padding-left: 15px !important;
-    margin-left: 75px !important;
-}
-
-.flex-row {
-    display: flexbox;
-    justify-content: right;
 }
 
 .navlist {
@@ -37,7 +28,6 @@ body {
     letter-spacing: 1px;
 }
 
-
 .mynavbrand {
     display: inline-block;
     padding-top: .3125rem;
@@ -49,6 +39,20 @@ body {
     color: white !important;
     text-decoration: none !important;
     letter-spacing: 1px;
+}
+
+h2 {
+    margin: 15px;
+}
+
+.container {
+    display: flex;
+    border-style: dashed;
+    border-color: slategray;
+    border-width: 3px;
+    background: linear-gradient(pink, purple);
+    background-image: url(https://www.transparenttextures.com/patterns/brick-wall.png);
+    padding-top: 20px;
 }
 
 .mypicture {
