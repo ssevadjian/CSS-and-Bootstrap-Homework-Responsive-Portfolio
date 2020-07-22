@@ -32,7 +32,7 @@ body {
     display: inline-block;
     padding-top: .3125rem;
     padding-bottom: .3125rem;
-    margin-right: 1rem;
+    margin-right: 4rem;
     font-size: 1.7rem;
     line-height: inherit;
     white-space: nowrap;
@@ -41,26 +41,40 @@ body {
     letter-spacing: 1px;
 }
 
-h2 {
+/*h2 {
     margin: 15px;
-}
+}*/
 
-.container {
+/*.container1 {
     display: flex;
-    border-style: solid;
-    border-color: pink;
-    border-width: 3px;
-    background: linear-gradient(pink, purple);
+    padding-top: 20px;
+    margin-left: 70px;
+    margin-right: 70px;
+    background-color: #FF69B4;
+}*/
+
+/*.container {
+    display: flex;
     background-image: url(https://www.transparenttextures.com/patterns/brick-wall.png);
     padding-top: 20px;
+    margin-left: 70px;
+    margin-right: 70px;
+}*/
+
+.contentbackground {
+    background-image: url(https://www.transparenttextures.com/patterns/brick-wall.png);
+    border: 5px dashed black;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
-.mypicture {
+
+/*.mypicture {
     height: 450px;
     width: 450px;
-}
+}*/
 
 .table {
-    border-top: 2px solid teal;
+    border-bottom: 2px solid;
 }
 
