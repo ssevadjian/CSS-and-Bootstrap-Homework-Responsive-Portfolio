@@ -63,16 +63,10 @@ body {
 
 .contentbackground {
     background-image: url(https://www.transparenttextures.com/patterns/brick-wall.png);
-    border: 5px dashed black;
     padding-top: 15px;
     padding-bottom: 15px;
 }
-
-
-/*.mypicture {
-    height: 450px;
-    width: 450px;
-}*/
+    
 
 .table {
     border-bottom: 2px solid;
