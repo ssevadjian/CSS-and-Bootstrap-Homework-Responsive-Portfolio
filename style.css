@@ -41,34 +41,19 @@ body {
     letter-spacing: 1px;
 }
 
-/*h2 {
-    margin: 15px;
-}*/
-
-/*.container1 {
-    display: flex;
-    padding-top: 20px;
-    margin-left: 70px;
-    margin-right: 70px;
-    background-color: #FF69B4;
-}*/
-
-/*.container {
-    display: flex;
-    background-image: url(https://www.transparenttextures.com/patterns/brick-wall.png);
-    padding-top: 20px;
-    margin-left: 70px;
-    margin-right: 70px;
-}*/
-
 .contentbackground {
     background-image: url(https://www.transparenttextures.com/patterns/brick-wall.png);
     padding-top: 15px;
     padding-bottom: 15px;
 }
-    
 
-.table {
-    border-bottom: 2px solid;
+table {
+    border-bottom: 5px solid;
 }
 
+@media screen and (max-width: 768px) {
+ul {
+    display: flex;
+    align-items: center;
+  }
+}
