@@ -58,8 +58,6 @@ table {
 
 @media screen and (max-width: 768px) {
 .container {
-    display: flex;
-    align-items: center;
     width: 100%;
   }
 }
