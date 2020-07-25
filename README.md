@@ -20,7 +20,6 @@ This web page will be used as a base for my real portfolio as I begin to create 
 
 ![ContactScreenshot](./images/ContactScreenshot.png)
 
-
 ## Link to Live Github page
 https://ssevadjian.github.io/CSS-and-Bootstrap-Homework-Responsive-Portfolio/
 
