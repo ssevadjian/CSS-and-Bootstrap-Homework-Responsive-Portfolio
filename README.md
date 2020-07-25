@@ -3,7 +3,11 @@ Created a responsive HTML web page using bootstrap framework.
 
 Included a nav bar with links to interrelated pages: index.html (About Me), portfolio.html (Portfolio), and contact.html (Contact).
 
-Includede sticky footer with links to social media accounts.
+Included sticky footer with links to social media accounts.
+
+Included personal information such as full name and images (social media links are in the footer).
+
+Used semantic HTML elements.
 
 
 

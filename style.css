@@ -14,6 +14,10 @@ body {
     background-color: #FF69B4;
 }
 
+.nameFont {
+ font-size: 2.5rem;
+}
+
 .navlist {
     list-style: none;
 }
@@ -49,11 +53,13 @@ body {
 
 table {
     border-bottom: 5px solid;
+    font-size: 2rem;
 }
 
 @media screen and (max-width: 768px) {
-ul {
+.container {
     display: flex;
     align-items: center;
+    width: 100%;
   }
 }
