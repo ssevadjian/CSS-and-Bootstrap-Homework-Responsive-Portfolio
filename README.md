@@ -21,7 +21,7 @@ Used semantic HTML elements.
 
 
 ## Link to Live Github page
-https://ssevadjian.github.io/Bootstrap-Playground/index.html
+https://ssevadjian.github.io/CSS-and-Bootstrap-Homework-Responsive-Portfolio/
 
 ## Link to homework in Github
-https://github.com/ssevadjian/Bootstrap-Playground
+https://github.com/ssevadjian/CSS-and-Bootstrap-Homework-Responsive-Portfolio
