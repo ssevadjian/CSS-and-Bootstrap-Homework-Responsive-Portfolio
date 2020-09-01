@@ -16,7 +16,7 @@ This web page will be used as a base for my real portfolio as I begin to create 
 
 ![AboutMeScreenshot](./images/AboutMeScreenshot.png)
 
-![PortfolioScreenshot](./images/PortfolioScreenshot.png)
+![PortfolioScreenshot](./images/newPortfolioPageImage.png)
 
 ![ContactScreenshot](./images/ContactScreenshot.png)
 
